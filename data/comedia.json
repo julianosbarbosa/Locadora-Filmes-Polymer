@@ -1,0 +1,56 @@
+[
+  {
+    "name":"Men+s+Tech+Shell+Full-Zip",
+    "title":"Abracadabra",
+    "category":"comedia",
+    "price":5.20,
+    "description":"Carmen (Maribel Verdú) é uma dona de casa que mora no distrito de Carabanchel, em Madrid. Até que num certo dia ela começa a pensar que seu marido, Carlos (De La Torre), possa estar possuído por um espírito maligno.",
+    "image":"data/images/10-15068B.jpg",
+    "largeImage":"data/images/10-15068A.jpg"
+  },
+  {
+    "name":"Anvil+L+S+Crew+Neck+-+Grey",
+    "title":"Em Cima do Muro",
+    "category":"comedia",
+    "price":2.15,
+    "description":"Juliette sempre teve uma imensa dificuldade em tomar decisões. Mesmo aos 40 anos, ela ainda pede para o pai e os amigos decidirem tudo por ela. Mas, quando se vê dividida entre dois amores, ela precisará escolher por si própria com quem ela quer ficar.",
+    "image":"data/images/10-14154B.jpg",
+    "largeImage":"data/images/10-14154A.jpg"
+  },
+  {
+    "name":"Green+Flex+Fleece+Zip+Hoodie",
+    "title":"A Guerra dos Sexos",
+    "category":"comedia",
+    "price":5.65,
+    "description":"A verdadeira história da partida de tênis entre Billie Jean King e Bobby Riggs, em 1973. Em sua vida profissional, King é campeã e uma feminista declarada. Mas na vida privada enfrenta desafios: seu casamento está por um fio e sua sexualidade no armário se torna uma distração. Indignada com o fato de a Liga Nacional de Tênis não permitir a paridade salarial entre homens e mulheres, ela aceita o desafio de 100 mil dólares proposto por Riggs, um antigo campeão que enfrenta problemas financeiros. Com Emma Stone e Steve Carell, dos diretores de Pequena Miss Sunshine. Toronto 2017",
+    "image":"data/images/10-14157B.jpg",
+    "largeImage":"data/images/10-14157A.jpg"
+  },
+  {
+    "name":"Android+Nylon+Packable+Jacket",
+    "title":"A Festa",
+    "category":"comedia",
+    "price":3.60,
+    "description":"Janet acaba de ser nomeada ministra do Gabinete Paralelo, um grupo de veteranos representantes da oposição que formam um gabinete alternativo ao governo de Westminster, na Grã-Bretanha. A conquista é o ápice de sua carreira política e ela planeja comemorar o feito ao lado de Bill, seu marido, e alguns amigos mais íntimos. No entanto, o evento ganha uma inesperada reviravolta quando Bill resolve aproveitar a reunião para revelar dois segredos chocantes. Agora, debaixo da polida superfície de uma esquerda liberal lapidada por tantos anos, todos ali estão prestes a explodir. Seleção Oficial do Festival de Berlim e do Festival do Rio 2017.",
+    "image":"data/images/10-15041B.jpg",
+    "largeImage":"data/images/10-15041A.jpg"
+  },
+  {
+    "name":"YouTube+Ultimate+Hooded+Sweatshirt",
+    "title":"De Volta para Casa",
+    "category":"comedia",
+    "price":2.35,
+    "description":"Recém separada do marido, Alice Kinney (Reese Witherspoon) decide recomeçar a sua via se mudando para sua cidade natal, Los Angeles, com as suas duas filhas. Durante uma comemoração noturna do seu aniversário de 40 anos, Alice conhece três aspirantes a cineastas que precisam de um lugar para morar. Ela deixa os rapazes permanecerem em seu quarto de hóspede temporariamente, mas o acordo gera situações inesperadas. A nova família de Alice e um novo amor em vista chegam a um ponto crucial quando seu marido aparece.",
+    "image":"data/images/10-14133B.jpg",
+    "largeImage":"data/images/10-14133A.jpg"
+  },
+  {
+    "name":"Grey+Heather+Fleece+Zip+Hoodie",
+    "title":"Madame",
+    "category":"comedia",
+    "price":8.85,
+    "description":"Anne e Bob são um casal rico que decide se mudar para Paris. Chegando lá, se apresentam à sociedade em um grande jantar. A chegada de um convidado a mais faz com que a conta dos presentes seja igual a 13 – um número maldito pelo casal. Eles decidem então arrumar a empregada da família como se fosse uma cidadã da alta sociedade parisiense para espatar a uruca – mesmo que com isso, façam com que tudo dê errado por causa da atrapalhada mulher",
+    "image":"data/images/10-14160B.jpg",
+    "largeImage":"data/images/10-14160A.jpg"
+  }
+]
